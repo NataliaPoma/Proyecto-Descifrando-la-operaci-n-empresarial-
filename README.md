@@ -1,10 +1,10 @@
-# 📊 Dashboard Interactivo en Spreadsheet
+# Dashboard Interactivo en Spreadsheet
 
 **Proyecto de visualización dinámica** desarrollado en hojas de cálculo con botones interactivos para navegar métricas y resúmenes temáticos.
 
 ---
 
-## 🎯 Descripción del proyecto
+## Descripción del proyecto
 
 Este dashboard fue diseñado para facilitar el análisis exploratorio de datos mediante un entorno amigable y accesible. La interfaz permite al usuario interactuar con botones que filtran métricas clave y activan vistas personalizadas.
 
@@ -15,13 +15,13 @@ Incluye:
 
 ---
 
-## 📁 Contenido del repositorio
+## Contenido del repositorio
 
 - `dashboard.xlsx` – Archivo principal con funcionalidades interactivas. Dataset utilizado para alimentar las visualizaciones. Informe descriptivo del proyecto.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Spreadsheets (Google Sheets)**  
 - **Diseño de botones interactivos**  
@@ -30,7 +30,7 @@ Incluye:
 
 ---
 
-## 💡 Aprendizajes destacados
+## Aprendizajes destacados
 
 - Implementación de controles personalizados dentro de hojas de cálculo.
 - Traducción técnica de métricas en visualizaciones claras y navegables.
@@ -38,7 +38,7 @@ Incluye:
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 Creado por [Nati Parra]  
 📧 rominaparrapoma@gmail.com  
